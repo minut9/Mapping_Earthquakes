@@ -16,7 +16,6 @@ If not..
 The command above will usually return “port 8000” , if it's a different port, no worries. Simply copy the address that is returned (Example: http://[::]:8000/ ) and paste into your browser. You should now see the map in your web browser. 
 
 The screenshots below are of the final product of the map and the different color modes available taken from my produced web browser.
-![image](https://user-images.githubusercontent.com/86068655/173484458-9ad0d054-8869-401b-b9f5-1a1f4a621f63.png)
 
 <img width="1377" alt="Screen Shot 2022-02-03 at 10 37 21 PM" src="https://user-images.githubusercontent.com/86068655/152468155-9191611c-be2f-43cb-a6ee-67367883f981.png">
 
